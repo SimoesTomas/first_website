@@ -2,6 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* Header with image background */
 header {
     background-image: url("../pics/header.jpg");
     height: 400px;
