@@ -8,8 +8,8 @@ header {
     height: 400px;
     background-size: 100% 400px;
     background-repeat: no-repeat;
-    position: relative;
     margin-bottom: 30px;
+    position: relative;
 }
 
 header h1 {
@@ -21,9 +21,12 @@ header h1 {
 }
 
 header nav {
-    text-align: left;
     position: absolute;
-    bottom: 20px;
+    bottom: 5px;
+}
+
+header nav ul {
+    display: inline-block;
 }
 
 header nav a {
